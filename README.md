@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Dribble Clone
 
 A new Flutter project.
@@ -18,9 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Introduction
 
---- Overview
+### Overview
 
 This is the basic homepage of a Edu mobile app, inspired by a design from Dribbble's website.
-=======
-# Flutter-dribble
->>>>>>> 4d1dd129bf544efd7d7ea61236fbeb54d81917ad
